@@ -18,15 +18,17 @@ function setup() {
     var title = createA('news[i].link', news[i].title);
     var author = createElement('h6', '😉' + news[i].author);
     var date = createElement('h6', news[i].date);
-    var dvd = createElement('hr');
+    // var dvd = createElement('hr');
         // createElement('br');
     // author.
       var frame = select('#001');
   frame.child(div0);
     title.parent(div0);
+    title.class('h5');
     author.parent(div0);
     date.parent(div0);
-    dvd.parent(div0);
+    // dvd.parent(div0);
+    div0.class('card mb-3 p-4');
   }
   
 
