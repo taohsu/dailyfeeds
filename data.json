@@ -2,11 +2,24 @@
     "description": "聚合新闻",
     "feeds": [
 
+        {
+            "ID": "00004",
+            "date": "03/02/2019",
+            "type": "豆瓣小组",
+            "title": "吵架没发挥好组",
+            "link": "https://www.douban.com/group/634971/",
+            "face": "😉",
+            "author": "下次一定好好吵",
+            "image": ""
+        },
+
 		{
                   "ID": "00003",
                   "date": "03/02/2019",
+                  "type": "科技",
                   "title": "红包外挂安装了吗？",
                   "link": "http://www.huxiu.com/article/283737.html",
+                  "face": "😉",
                   "author": "安全第一，切勿因小失大",
                   "image": "https://img.huxiucdn.com/article/cover/201902/02/214318724665.jpg?imageView2/1/w/400/h/225/|imageMogr2/strip/interlace/1/quality/85/format/jpg"
 		},
@@ -14,8 +27,10 @@
 		{
                   "ID": "00002",
                   "date": "03/02/2019",
+                  "type": "理财",
                   "title": "超低生育率养成记",
                   "link": "http://www.huxiu.com/article/283766.html",
+                  "face": "😉",
                   "author": "减缓少子化的速度，是个迫在眉睫的需求",
                   "image": "https://img.huxiucdn.com/article/cover/201902/03/112202315172.jpg?imageView2/1/w/400/h/225/|imageMogr2/strip/interlace/1/quality/85/format/jpg"
 		},
@@ -23,9 +38,11 @@
         {
                   "ID": "00001",
                   "date": "03/02/2019",
+                  "type": "爱国",
                   "title": "《流浪地球》与中国科幻电影之春",
                   "link": "http://www.huxiu.com/article/283774.html",
-                  "author": "千年隼号",
+                  "face": "😃",
+                  "author": "不看不是地球人",
                   "image": "https://img.huxiucdn.com/article/cover/201809/10/150729191396.jpg?imageView2/1/w/400/h/225/|imageMogr2/strip/interlace/1/quality/85/format/jpg"
 		}
 	]
