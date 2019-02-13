@@ -18,7 +18,7 @@ function setup() {
     var div0 = createDiv();
     var link = news[i].link;
     console.log(link);
-    title = createA('http://unsplash.com', news[i].title);
+    title = createA(news[i].link, news[i].title);
     var author = createElement('h6', '😉' + news[i].author);
     var date = createElement('h6', news[i].date);
     // var dvd = createElement('hr');
