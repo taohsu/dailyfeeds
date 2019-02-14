@@ -1,6 +1,16 @@
 {
     "description":"聚合新闻",
     "feeds":[
+       {
+            "ID":"00006",
+            "date":"14/02/2019",
+            "type":"艺术",
+            "title":"比互联网历史更悠久的 ASCII 色图至今依然无处不在",
+            "link":"http://www.vice.cn/read/ascii-pr0n-porn-predates-the-internet-but-its-still-everywhere",
+            "face":"😉",
+            "author":"#vintage",
+            "image":"http://img.vice.cn/images/2019/02/12/14b5ebcdb26a0f183891b04ca92fdaf1.jpg.400x400.jpg?1549950618772"
+          },
         {
             "ID":"00005",
             "date":"14/02/2019",
