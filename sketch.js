@@ -19,18 +19,22 @@ function setup() {
     var link = news[i].link;
     console.log(link);
     title = createA(news[i].link, news[i].title, '_blank');
-    var author = createElement('h6', '😉' + news[i].author);
-    var date = createElement('h6', news[i].date);
+    var author = createElement('p', '😉' + news[i].author);
+    var date = createElement('p', news[i].date);
+    var type = createElement('p', news[i].type);
     // var dvd = createElement('hr');
         // createElement('br');
     // author.
       var frame = select('#001');
   frame.child(div0);
+    type.parent(div0);
     title.parent(div0);
     title.class('h5');
     // console.log(title);
     author.parent(div0);
     date.parent(div0);
+    date.class('small');
+    
     // dvd.parent(div0);
     div0.class('card mb-3 p-4');
   }
