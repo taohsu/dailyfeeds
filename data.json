@@ -1,6 +1,27 @@
 {
-    "description":"聚合新闻",
+    "description":"坊间传闻",
+    "description":"2019年2月16日 今日更新 2 条",
     "feeds":[
+      {
+            "ID":"00008",
+            "date":"16/02/2019",
+            "type":"电影",
+            "title":"《铳梦》：日式赛博朋克的浪漫",
+            "link":"https://www.gcores.com/articles/18386",
+            "face":"🤨",
+            "author":"也许你不相信，卡梅隆拍阿凡达是为了给《铳梦》这部漫画改拍电影做技术验证",
+            "image":"https://alioss.gcores.com/uploads/image/4bd16a74-cc3f-4d7b-bebd-df8043708304_watermark.jpg"
+        },
+      {
+            "ID":"00007",
+            "date":"16/02/2019",
+            "type":"电影",
+            "title":"战斗天使阿丽塔全解析",
+            "link":"https://zhuanlan.zhihu.com/p/40956161",
+            "face":"🤨",
+            "author":"<del>naked</del> weapon",
+            "image":"https://pic1.zhimg.com/80/v2-cbe239a8321ed937e9cb24c537411834_hd.jpg"
+         },
        {
             "ID":"00006",
             "date":"14/02/2019",
