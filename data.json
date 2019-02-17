@@ -1,15 +1,49 @@
 {
     "description":"坊间传闻",
-    "description":"2019年2月16日 今日更新 2 条",
+    "description":"2019年2月17日 今日更新 3 条",
     "feeds":[
+      {
+            "ID":"00011",
+            "date":"17/02/2019",
+            "type":"科技",
+            "title":"AI人脸生成",
+            "link":"http://ThisPersonDoesNotExist.com",
+            "face":"👤",
+            "author":"使用GAN，生成对抗网络Generative Adversarial Nets算法，自动生成的以假乱真伪造人脸照片",
+        		"display":"0",
+            "image":"https://image.gcores.com/d8ce668d-239c-445d-a8d3-e6d733c3699b.jpg?x-oss-process=style/original_hl"
+        },
+      {
+            "ID":"00010",
+            "date":"17/02/2019",
+            "type":"北京",
+            "title":"再见，北京！过完年我就不来了",
+            "link":"https://www.huxiu.com/article/283251.html?rec=manual",
+            "face":"🎒",
+            "author":"这里面盛放着她在北京生活的10年青春。现在，她那间位于五道口地铁站附近的出租屋里已经收拾干净，没有留下她的任何痕迹——正如她对于北京一样。",
+        		"display":"0",
+            "image":"https://image.gcores.com/d8ce668d-239c-445d-a8d3-e6d733c3699b.jpg?x-oss-process=style/original_hl"
+        },
+      {
+            "ID":"00009",
+            "date":"17/02/2019",
+            "type":"Gadio music",
+            "title":"我们用8bit音乐原理告诉你，FC的游戏音乐是如何制作的",
+            "link":"https://www.gcores.com/radios/26610",
+            "face":"🤘",
+            "author":"重轻老师饿爱你",
+        		"display":"1",
+            "image":"https://image.gcores.com/34813bbd-9c9d-4adc-8b34-f43ce6c65fe5.jpg?x-oss-process=style/original_hl"
+        },
       {
             "ID":"00008",
             "date":"16/02/2019",
             "type":"电影",
             "title":"《铳梦》：日式赛博朋克的浪漫",
             "link":"https://www.gcores.com/articles/18386",
-            "face":"🤨",
+            "face":"😎",
             "author":"也许你不相信，卡梅隆拍阿凡达是为了给《铳梦》这部漫画改拍电影做技术验证",
+        		"display":"0",
             "image":"https://alioss.gcores.com/uploads/image/4bd16a74-cc3f-4d7b-bebd-df8043708304_watermark.jpg"
         },
       {
@@ -20,6 +54,7 @@
             "link":"https://zhuanlan.zhihu.com/p/40956161",
             "face":"🤨",
             "author":"<del>naked</del> weapon",
+        		"display":"0",
             "image":"https://pic1.zhimg.com/80/v2-cbe239a8321ed937e9cb24c537411834_hd.jpg"
          },
        {
@@ -30,6 +65,7 @@
             "link":"http://www.vice.cn/read/ascii-pr0n-porn-predates-the-internet-but-its-still-everywhere",
             "face":"😉",
             "author":"#vintage",
+         		"display":"0",
             "image":"http://img.vice.cn/images/2019/02/12/14b5ebcdb26a0f183891b04ca92fdaf1.jpg.400x400.jpg?1549950618772"
           },
         {
@@ -40,6 +76,7 @@
             "link":"https://mp.weixin.qq.com/s/z71wL9r3PRxqLjq3mVymNA",
             "face":"😉",
             "author":"一位习惯了996生活的公司人说：这个社会，如果你不拼，就只有被淘汰的份",
+          	"display":"0",
             "image":"https://mmbiz.qpic.cn/mmbiz_jpg/QicyPhNHD5vZeL0yZTbUicWXLGqAmiaDbEVSzN3Zr2YqJv03vJ0JicSYNHkNaFS40ReRb0ic499YTpMNmmjrTtOibaew/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"
          },
        {
@@ -50,6 +87,7 @@
           "link":"https://www.douban.com/group/634971/",
           "face":"😉",
           "author":"下次一定好好吵",
+         	"display":"0",
           "image":""
        },
        {
@@ -60,6 +98,7 @@
           "link":"http://www.huxiu.com/article/283737.html",
           "face":"😉",
           "author":"安全第一，切勿因小失大",
+         	"display":"0",
           "image":"https://img.huxiucdn.com/article/cover/201902/02/214318724665.jpg?imageView2/1/w/400/h/225/|imageMogr2/strip/interlace/1/quality/85/format/jpg"
        },
        {
@@ -70,6 +109,7 @@
           "link":"http://www.huxiu.com/article/283766.html",
           "face":"😉",
           "author":"减缓少子化的速度，是个迫在眉睫的需求",
+         	"display":"0",
           "image":"https://img.huxiucdn.com/article/cover/201902/03/112202315172.jpg?imageView2/1/w/400/h/225/|imageMogr2/strip/interlace/1/quality/85/format/jpg"
        },
        {
@@ -80,6 +120,7 @@
           "link":"http://www.huxiu.com/article/283774.html",
           "face":"😃",
           "author":"不看不是地球人",
+         	"display":"0",
           "image":"https://img.huxiucdn.com/article/cover/201809/10/150729191396.jpg?imageView2/1/w/400/h/225/|imageMogr2/strip/interlace/1/quality/85/format/jpg"
        }
     ]
