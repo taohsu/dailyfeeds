@@ -21,10 +21,16 @@ a:hover {
 /*     height: 100%; */
 /*     object-fit: cover; */
   overflow:auto;
+  border-radius: 0.75rem;
 }
 
 .card-img-overlay {
   background-color: rgba(0, 0, 0, 0);
   border: 0;
+  
 /*   opacity: 0.2; */
+}
+
+.card {
+	border-radius: 0.75rem;
 }
