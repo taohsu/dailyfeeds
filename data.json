@@ -1,7 +1,18 @@
 {
     "description":"坊间传闻",
-    "description":"2019年3月6日 今日更新 1 条",
+    "description":"2019年3月6日 今日更新 2 条",
     "feeds":[
+        {
+            "ID":"00019",
+            "date":"06/03/2019",
+            "type":"职场",
+            "title":"设计师怼人指南（2019专业版）",
+            "link":"https://uxdesign.cc/a-comprehensive-and-honest-list-of-ux-clich%C3%A9s-96e2a08fb2e9",
+            "face":"🙂",
+            "author":"怼不哭算我输",
+        		"display":"0",
+            "image":"https://cdn-images-1.medium.com/max/1200/1*Qdx2MMrjk-mHxFCLVR9Otw.png"
+        },
         {
             "ID":"00018",
             "date":"06/03/2019",
