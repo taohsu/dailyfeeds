@@ -1,7 +1,18 @@
 {
     "description":"坊间传闻",
-    "description":"2019年3月2日 今日更新 2 条",
+    "description":"2019年3月6日 今日更新 1 条",
     "feeds":[
+        {
+            "ID":"00018",
+            "date":"06/03/2019",
+            "type":"Fun",
+            "title":"Welcome to Fucking",
+            "link":"https://www.youtube.com/watch?v=bawmxQE_Fj0",
+            "face":"🙂",
+            "author":"the village of Fucking",
+        		"display":"1",
+            "image":"https://i.ytimg.com/vi/bawmxQE_Fj0/maxresdefault.jpg"
+        },
         {
             "ID":"00017",
             "date":"02/03/2019",
