@@ -1,7 +1,18 @@
 {
     "description":"坊间传闻",
-    "description":"2019年3月6日 今日更新 2 条",
+    "description":"2019年3月8日 今日更新 1 条",
     "feeds":[
+        {
+            "ID":"00020",
+            "date":"08/03/2019",
+            "type":"音乐",
+            "title":"如何（仅）使用Gameboy创作Chiptune乐曲",
+            "link":"https://www.littlesounddj.com/lsd/index.php",
+            "face":"🙂",
+            "author":"牛逼",
+        		"display":"0",
+            "image":""
+        },
         {
             "ID":"00019",
             "date":"06/03/2019",
